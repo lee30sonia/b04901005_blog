@@ -672,3 +672,7 @@ body {
 #frame .content .message-input .wrap button:focus {
   outline: none;
 }
+
+.emph {
+  font-weight: bold;
+}
