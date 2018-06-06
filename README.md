@@ -17,6 +17,11 @@ $cd hackathon/ <br>
 $npm start <br><br>
 
 #the application can be accessed from http://localhost:3000/ <br>
+
+### functionality:
+Username: admin <br>
+Password: password <br>
+Key in the username and password correctly to log in the system. <br>
 <br>
 
 ## HW4: messenger
